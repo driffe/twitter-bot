@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+opencv-python
+numpy
+fuzzywuzzy
+transformers
+torch
+twikit
+python-Levenshtein
